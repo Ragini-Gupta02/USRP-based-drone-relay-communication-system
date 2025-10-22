@@ -1,1 +1,2 @@
 # USRP-based-drone-relay-communication-system
+This project implements a drone-assisted wireless relay communication system using USRP (Universal Software Radio Peripheral) devices. The system establishes a real-time communication link between two distant ground nodes through an airborne relay (drone), extending the effective range of wireless communication in scenarios where direct line-of-sight is unavailable or unreliable.
